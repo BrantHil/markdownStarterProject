@@ -1,6 +1,6 @@
 # Heading
 This is ~~standard~~ text 
 
-This is a link to [google.com] 
+This is a link to [google.com](google.com)
 # Heading 2 
 *This is more standard text* 

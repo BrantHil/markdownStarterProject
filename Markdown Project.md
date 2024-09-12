@@ -8,4 +8,9 @@ I changed this for command line testing
 |Table of letters|
 |Vowels|Consonants| 
 |---|---|
-|a|t|
+|a|b|
+|e|c|
+|i|d|
+|o|f|
+|u|g|
+|y|h|

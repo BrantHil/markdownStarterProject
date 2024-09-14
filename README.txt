@@ -4,4 +4,4 @@ Hey! I'm adding text. Again.
 
 Hi :)
 
-Hi, this is Angela - I am making a pull request :)
+Hi, this is Angela - I am making a pull request. :)

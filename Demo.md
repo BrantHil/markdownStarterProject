@@ -19,4 +19,4 @@ I changed this for command line testing
 # An example of a project I coded for my final project from my previous college
 
 ## The Character Selection Screen
-![Example Image](./Pictures/DNDCharacterSheet%20Character%20Select%20Screen.png)
+![Example Image](./Pictures/DNDCharacterSheetCharacterSelectScreen.png)

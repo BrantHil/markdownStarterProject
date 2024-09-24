@@ -20,3 +20,4 @@ I changed this for command line testing
 
 ## The Character Selection Screen
 ![Example Image](Pictures/DNDCharacterSheetCharacterSelectScreen.png)
+<img src="Pictures/DNDCharacterSheetCharacterSelectScreen.png" alt="DND Character Selection Screen">

@@ -16,7 +16,7 @@ I changed this for command line testing
 |y|h|
 
 
-# An example of a project I coded for my final project from my previous college
+# An example of a project I designed and programmed alongside a partner for my final project from my previous college
 
 ## The Character Selection Screen
 Seen below is the character selection screen where a use is able to load or create a new character

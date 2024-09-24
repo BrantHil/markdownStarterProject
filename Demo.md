@@ -19,5 +19,8 @@ I changed this for command line testing
 # An example of a project I coded for my final project from my previous college
 
 ## The Character Selection Screen
+Seen below is the character selection screen where a use is able to load or create a new character
 ![](Pictures/DNDCharacterSheetCharacterSelectScreen.png)
-<img src="Pictures/DNDCharacterSheetCharacterSelectScreen.png" alt="DND Character Selection Screen">
+## The Character Information Screen
+This is the bulk of the program, where users are able to input and change the information related to a DND character. The sheet also includes the standard stat proficiencies calaculated.  
+![](Pictures/DNDCharacterSheetCharacterInformationScreen.png)

@@ -19,5 +19,5 @@ I changed this for command line testing
 # An example of a project I coded for my final project from my previous college
 
 ## The Character Selection Screen
-![Example Image](Pictures/DNDCharacterSheetCharacterSelectScreen.png)
+![](Pictures/DNDCharacterSheetCharacterSelectScreen.png)
 <img src="Pictures/DNDCharacterSheetCharacterSelectScreen.png" alt="DND Character Selection Screen">

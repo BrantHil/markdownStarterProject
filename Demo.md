@@ -19,7 +19,7 @@ I changed this for command line testing
 # An example of a project I designed and programmed alongside a partner for my final project from my previous college
 
 ## The Character Selection Screen
-Seen below is the character selection screen where a use is able to load or create a new character
+Seen below is the character selection screen where users are able to load or create new characters.
 ![](Pictures/DNDCharacterSheetCharacterSelectScreen.png)
 ## The Character Information Screen
 This is the bulk of the program, where users are able to input and change the information related to a DND character. The sheet also includes the standard stat modifiers calaculated.  
